@@ -2,7 +2,7 @@
 - 👀 I’m interested in project operation and management, collaborative coding.
 - 🌱 I’m currently learning how to use github and contribute to the community.
 - 💞️ I’m looking to collaborate on the above aspects.
-- 📫 How to reach me ...
+- 📫 Reach me here for now.
 
 <!---
 tencentoperate1/tencentoperate1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
